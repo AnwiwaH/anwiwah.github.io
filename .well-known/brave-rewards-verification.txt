@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: anwiwah.github.io
+Token: 53129a3518988f6005a0745ae63cc5ea8472db8e3ba055c63bc2846545de0e2d
